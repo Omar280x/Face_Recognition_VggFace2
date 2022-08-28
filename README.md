@@ -1,7 +1,7 @@
 # Face_Recognition_VggFace2
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/2wTHZWvnROfQQB2xIZ/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/2wTHZWvnROfQQB2xIZ/giphy.gif" width="500"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Omar Moustafa</h1>
