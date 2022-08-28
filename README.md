@@ -8,7 +8,7 @@
 <h3 align="center">A Machine Learning Engineer</h3>
 
 
-### Implemented a face recognition system using CNN with a pre-trained model which is vggface2 using keras.
+### In this project I've implemented a face recognition system using CNN with a pre-trained model which is vggface2 using keras.
 ### I’ve used MTCNN for face detection and face alignment
 
 
